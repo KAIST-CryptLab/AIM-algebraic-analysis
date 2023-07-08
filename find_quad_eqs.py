@@ -1,1 +1,1 @@
-BoolEqs/find_quad_eqs.py
+BoolQuadEqs/find_quad_eqs.py

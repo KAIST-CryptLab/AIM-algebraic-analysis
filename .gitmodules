@@ -1,4 +1,4 @@
-[submodule "BoolEqs"]
-	path = BoolEqs
-	url = git@github.com:KAIST-CryptLab/BoolEqs.git
-	branch = refactor
+[submodule "BoolQuadEqs"]
+	path = BoolQuadEqs
+	url = https://github.com/KAIST-CryptLab/BoolQuadEqs.git
+	branch = main

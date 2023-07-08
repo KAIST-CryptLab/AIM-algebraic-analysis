@@ -1,1 +1,1 @@
-BoolEqs/coset.py
+BoolQuadEqs/coset.py
